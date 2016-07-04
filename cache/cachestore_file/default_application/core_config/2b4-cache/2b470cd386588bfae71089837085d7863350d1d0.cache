@@ -1,0 +1,24 @@
+a:84:{s:5:"back1";s:0:"";s:5:"back2";s:0:"";s:5:"back3";s:0:"";s:5:"back4";s:0:"";s:15:"backgroundcover";s:1:"0";s:15:"backgroundfixed";s:1:"0";s:15:"backgroundimage";s:15:"/background.png";s:18:"backgroundposition";s:11:"left_bottom";s:16:"backgroundrepeat";s:8:"repeat-x";s:14:"bodybackground";s:7:"#0370A5";s:17:"contentbackground";s:7:"#FFFFFF";s:9:"customcss";s:0:"";s:16:"displaymycourses";s:1:"1";s:10:"fontselect";s:1:"1";s:8:"footnote";s:0:"";s:5:"fpbkg";s:0:"";s:11:"fpslideshow";s:1:"2";s:6:"fptext";s:0:"";s:12:"generalalert";s:0:"";s:6:"invert";s:1:"1";s:9:"linkcolor";s:7:"#415FFB";s:9:"logosmall";s:0:"";s:14:"marketboxcolor";s:7:"#FFFFFF";s:10:"marketing1";s:0:"";s:20:"marketing1buttontext";s:0:"";s:19:"marketing1buttonurl";s:0:"";s:17:"marketing1content";s:0:"";s:14:"marketing1icon";s:4:"star";s:16:"marketing1target";s:5:"_self";s:10:"marketing2";s:0:"";s:20:"marketing2buttontext";s:0:"";s:19:"marketing2buttonurl";s:0:"";s:17:"marketing2content";s:0:"";s:14:"marketing2icon";s:4:"star";s:16:"marketing2target";s:5:"_self";s:10:"marketing3";s:0:"";s:20:"marketing3buttontext";s:0:"";s:19:"marketing3buttonurl";s:0:"";s:17:"marketing3content";s:0:"";s:14:"marketing3icon";s:4:"star";s:16:"marketing3target";s:5:"_self";s:13:"mycoursetitle";s:6:"course";s:14:"nav1buttontext";s:7:"My Home";s:13:"nav1buttonurl";s:3:"my/";s:8:"nav1icon";s:4:"home";s:14:"nav2buttontext";s:8:"Calendar";s:13:"nav2buttonurl";s:28:"calendar/view.php?view=month";s:8:"nav2icon";s:8:"calendar";s:14:"nav3buttontext";s:6:"Badges";s:13:"nav3buttonurl";s:19:"badges/mybadges.php";s:8:"nav3icon";s:8:"bookmark";s:14:"nav4buttontext";s:7:"Courses";s:13:"nav4buttonurl";s:7:"course/";s:8:"nav4icon";s:4:"book";s:14:"nav5buttontext";s:0:"";s:13:"nav5buttonurl";s:0:"";s:8:"nav5icon";s:4:"star";s:14:"nav6buttontext";s:0:"";s:13:"nav6buttonurl";s:0:"";s:8:"nav6icon";s:4:"star";s:14:"nav7buttontext";s:0:"";s:13:"nav7buttonurl";s:0:"";s:8:"nav7icon";s:4:"star";s:14:"nav8buttontext";s:0:"";s:13:"nav8buttonurl";s:0:"";s:8:"nav8icon";s:4:"star";s:19:"secondarybackground";s:7:"#CAD9E8";s:9:"snowalert";s:0:"";s:9:"swaddpost";s:7:"#FFFFFF";s:8:"swattach";s:7:"#F6FAA0";s:9:"swcomment";s:7:"#FFFFFF";s:10:"swicontext";s:7:"#A83116";s:17:"swlabelattachment";s:18:"\f0c6  Attachments";s:14:"swlabelcomment";s:15:"\f0e6  Comments";s:14:"swlabelmessage";s:14:"\f0e5  Message";s:11:"swlabelpost";s:11:"\f086  Post";s:9:"swmessage";s:7:"#F0F3F7";s:14:"swmultilangcss";s:1673:".lang-es.format-socialwall ul.section.tl-postattachment:before { content: "\f0c6  Anexos"; }
+.lang-es.format-socialwall .tl-comments:before { content: "\f0e6  Comentarios"; }
+.lang-es.format-socialwall .tl-posttext:before{ content: "\f0e5  Mensaje"; }
+.lang-es.format-socialwall .tl-post:before{ content: "\f086  Publicación" }
+
+.lang-de.format-socialwall ul.section.tl-postattachment:before { content: "\f0c6  Zubehör"; }
+.lang-de.format-socialwall .tl-comments:before { content: "\f0e6  Comments"; }
+.lang-de.format-socialwall .tl-posttext:before{ content: "\f0e5  Nachricht"; }
+.lang-de.format-socialwall .tl-post:before{ content: "\f086  Post" }
+
+.lang-es_mx.format-socialwall ul.section.tl-postattachment:before { content: "\f0c6  Anexos"; }
+.lang-es_mx.format-socialwall .tl-comments:before { content: "\f0e6  Comentarios"; }
+.lang-es_mx.format-socialwall .tl-posttext:before{ content: "\f0e5  Mensaje"; }
+.lang-es_mx.format-socialwall .tl-post:before{ content: "\f086  Publicación" }
+
+.lang-fr.format-socialwall ul.section.tl-postattachment:before { content: "\f0c6  Pièces jointes"; }
+.lang-fr.format-socialwall .tl-comments:before { content: "\f0e6  Commentaires"; }
+.lang-fr.format-socialwall .tl-posttext:before{ content: "\f0e5  Message"; }
+.lang-fr.format-socialwall .tl-post:before{ content: "\f086  Poste" }
+
+.lang-it.format-socialwall ul.section.tl-postattachment:before { content: "\f0c6  Allegati"; }
+.lang-it.format-socialwall .tl-comments:before { content: "\f0e6  Commenti"; }
+.lang-it.format-socialwall .tl-posttext:before{ content: "\f0e5  Messaggio"; }
+.lang-it.format-socialwall .tl-post:before{ content: "\f086  Posta" }";s:6:"swpost";s:7:"#FFFFFF";s:9:"textcolor";s:7:"#3d3d3d";s:8:"togglefp";s:1:"2";s:15:"togglemarketing";s:1:"1";s:14:"topicweekcolor";s:7:"#FFFFFF";s:7:"version";s:10:"2015092300";}
